@@ -269,10 +269,6 @@ Controllers check project membership + role before any action
 
 ## 👤 Author
 
-**Piyush B** — [GitHub @piyushb03](https://github.com/piyushb03)
+**Piyush Baghel** — [GitHub @piyushb03](https://github.com/piyushb03)
 
 ---
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
