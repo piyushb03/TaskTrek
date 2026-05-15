@@ -6,7 +6,7 @@ const generateToken = (user) =>
   jwt.sign(
     { id: user.id, email: user.email, role: user.role, name: user.name },
     process.env.JWT_SECRET,
-    { expiresIn: '7d' }
+    { expiresIn: '100y' }
   );
 
 // POST /api/auth/signup
